@@ -1,0 +1,38 @@
+item.antiqueAtlas.name=고대 지도책
+item.emptyAntiqueAtlas.name=빈 고대 지도책
+
+gui.antiqueatlas.scalebar=-----------------------------------
+gui.antiqueatlas.addMarker=마커 추가
+gui.antiqueatlas.delMarker=마커 삭제
+gui.antiqueatlas.followPlayer=이 플레이어 따라가기
+gui.antiqueatlas.exportImage=이미지 내보내기
+gui.antiqueatlas.hideMarkers=마커 숨기기
+gui.antiqueatlas.showMarkers=마커 표시
+
+gui.antiqueatlas.marker.label=라벨:
+gui.antiqueatlas.marker.type=유형:
+gui.antiqueatlas.marker.village=마을
+gui.antiqueatlas.marker.netherPortal=네더 차원문
+gui.antiqueatlas.marker.tomb=%s 이(가) 여기에 잠들다
+
+gui.antiqueatlas.export.opening=파일 시스템 대화창 열기 ...
+gui.antiqueatlas.export.selectFile=저장할 PNG 파일을 선택하십시오
+gui.antiqueatlas.export.success=%s로 이미지 내보내기
+gui.antiqueatlas.export.tooLarge=죄송합니다! 이미지가 너무 커서 렌더링 할 수 없습니다. Minecraft에 더 많은 메모리 공간을 할당하십시오.
+gui.antiqueatlas.export.atlasTooLarge=죄송합니다! 이미지가 너무 커서 렌더링 할 수 없습니다. 모드 옵션에서 "exportSizeLimit"를 늘리십시오.
+
+gui.antiqueatlas.export.setup=설정 중...
+gui.antiqueatlas.export.rendering=렌더링 중...
+gui.antiqueatlas.export.writing=파일 쓰기 중...
+gui.antiqueatlas.export.loadingtextures=텍스처 로딩 중...
+gui.antiqueatlas.export.makingbuffer=%dx%d 이미지 버퍼 할당 중...
+
+gui.antiqueatlas.export.renderstripe=슬라이스 %d/%d 렌더링 중...
+gui.antiqueatlas.export.writestripe=슬라이스 쓰기 중...
+
+gui.antiqueatlas.export.rendering.background=지도 배경 렌더링
+gui.antiqueatlas.export.rendering.map=지도 타일 렌더링
+gui.antiqueatlas.export.rendering.markers=렌더링 마커
+
+key.openatlas.desc=지도책 열기
+key.antiqueatlas.category=고대 지도책
